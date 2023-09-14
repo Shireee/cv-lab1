@@ -8,6 +8,7 @@
 ![graycat1](https://github.com/Shireee/cv-labs/assets/52496230/426d75f5-6d46-4ef1-84ae-1f908b086c71) ![graycat2](https://github.com/Shireee/cv-labs/assets/52496230/d4b1f558-be9a-40d4-b896-2fb353da9b45)
 
 # Cat diff
+### разница между пикселями будет представлена яркостью
 ![catdiff](https://github.com/Shireee/cv-labs/assets/52496230/1a05c9fa-604e-46bb-b0df-57f8d4e9d27a)
 
 # Video processing 
