@@ -9,6 +9,9 @@
 ## Linear correction: y = kx + b
 `linear_correction(image, 1.5, 0)`<br>
 ![image](https://github.com/Shireee/cv-labs/assets/52496230/ed622cb8-5c00-419f-9d70-31c43c80f2df)
+## logarithmic_correction y = log(x)
+`logarithmic_correction(image)`<br>
+![image](https://github.com/Shireee/cv-labs/assets/52496230/3a9f77a0-ea9d-4a14-bdf5-66b373a7a087)
 
 # Histogram Normalization
 ![image](https://github.com/Shireee/cv-labs/assets/52496230/57edcc7b-c08a-4a7d-bf0b-f330e818875b)
