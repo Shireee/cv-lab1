@@ -1,17 +1,17 @@
-# Img
-![cat](https://github.com/Shireee/cv-labs/assets/52496230/cff0a50f-e431-4721-a7eb-fe90ee313dd1)
+# Correction with reference color
+`colorCorrection(image, 153, 150, 200)`<br>
+![image](https://github.com/Shireee/cv-labs/assets/52496230/74db7c7e-9c23-4f38-9ab4-66fe9a5978e4)
 
+# Gray world correction
+![image](https://github.com/Shireee/cv-labs/assets/52496230/8d8f21fa-40e3-403a-8841-41e73d8a95ec)
 
-# Halftone
+# Function correction
+## Linear correction: y = kx + b
+`linear_correction(image, 1.5, 0)`<br>
+![image](https://github.com/Shireee/cv-labs/assets/52496230/ed622cb8-5c00-419f-9d70-31c43c80f2df)
 
-## gray = (R + G + B)/3      ||     gray = R*0.3 + G*0.59 + B*0.11
-![graycat1](https://github.com/Shireee/cv-labs/assets/52496230/426d75f5-6d46-4ef1-84ae-1f908b086c71) ![graycat2](https://github.com/Shireee/cv-labs/assets/52496230/d4b1f558-be9a-40d4-b896-2fb353da9b45)
+# Histogram Normalization
+![image](https://github.com/Shireee/cv-labs/assets/52496230/57edcc7b-c08a-4a7d-bf0b-f330e818875b)
 
-# Cat diff
-### разница между пикселями будет представлена яркостью
-![catdiff](https://github.com/Shireee/cv-labs/assets/52496230/1a05c9fa-604e-46bb-b0df-57f8d4e9d27a)
-
-# Video processing 
-![cat](https://github.com/Shireee/cv-labs/assets/52496230/ff9045fd-9b78-41c2-832c-9669ea3e9b23)![graycat](https://github.com/Shireee/cv-labs/assets/52496230/2be9acf8-8787-4bff-806f-d16eac1811ee)![cat_motion_capture](https://github.com/Shireee/cv-labs/assets/52496230/d8ea70c4-730e-43e7-8501-fc30b2d41b69)
-
-
+# Histogram Equalization
+![image](https://github.com/Shireee/cv-labs/assets/52496230/a87a7962-a345-420f-bb9e-32faadfe7862)
