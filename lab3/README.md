@@ -1,20 +1,13 @@
-# Correction with reference color
-`colorCorrection(image, 153, 150, 200)`<br>
-![image](https://github.com/Shireee/cv-labs/assets/52496230/74db7c7e-9c23-4f38-9ab4-66fe9a5978e4)
+# Linear quantization realization
+![image](https://github.com/Shireee/cv-labs/assets/52496230/30bedb58-4483-4b42-83de-533d3c732ff9)
 
-# Gray world correction
-![image](https://github.com/Shireee/cv-labs/assets/52496230/8d8f21fa-40e3-403a-8841-41e73d8a95ec)
+# Otsu global binarization
+![image](https://github.com/Shireee/cv-labs/assets/52496230/e08bffb6-2427-4ee7-b3a1-5434c5e3cd08)
 
-# Function correction
-## Linear correction: y = kx + b
-`linear_correction(image, 1.5, 0)`<br>
-![image](https://github.com/Shireee/cv-labs/assets/52496230/ed622cb8-5c00-419f-9d70-31c43c80f2df)
-## logarithmic_correction y = log(x)
-`logarithmic_correction(image)`<br>
-![image](https://github.com/Shireee/cv-labs/assets/52496230/3a9f77a0-ea9d-4a14-bdf5-66b373a7a087)
+# Otsu local binarization
+`Otsu_local(image, parts = 10)`
+![image](https://github.com/Shireee/cv-labs/assets/52496230/37fbfce6-edc1-4e57-85d7-62b9b902bf8d)
 
-# Histogram Normalization
-![image](https://github.com/Shireee/cv-labs/assets/52496230/57edcc7b-c08a-4a7d-bf0b-f330e818875b)
-
-# Histogram Equalization
-![image](https://github.com/Shireee/cv-labs/assets/52496230/a87a7962-a345-420f-bb9e-32faadfe7862)
+# Otsu_hierarchical quantization 
+`Otsu_hierarchical(image, depth = 2)`
+![image](https://github.com/Shireee/cv-labs/assets/52496230/dc33bc70-09e0-4b46-a40f-0abd29acb894)
